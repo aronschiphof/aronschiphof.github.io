@@ -9,7 +9,7 @@
             }
          },
          "name" : "Ecotap Charging Station",
-         "vicinity" : "Valkenburgerstraat 238, 1011 ND Amsterdam"
+         "vicinity" : "Valkenburgerstraat 238, Amsterdam"
       },
       {
          "geometry" : {
@@ -19,7 +19,7 @@
             }
          },
          "name" : "Ecotap Charging Station",
-         "vicinity" : "Amstelstraat 12, 1017 DA Amsterdam"
+         "vicinity" : "Amstelstraat 12, Amsterdam"
       },
       {
          "geometry" : {
@@ -29,7 +29,7 @@
             }
          },
          "name" : "NewMotion Charging Station",
-         "vicinity" : "Beursplein 5, 1012 JW Amsterdam"
+         "vicinity" : "Beursplein 5, Amsterdam"
       },
       {
          "geometry" : {
@@ -39,7 +39,7 @@
             }
          },
          "name" : "NewMotion Charging Station",
-         "vicinity" : "Spuistraat 133, 1012 SV Amsterdam"
+         "vicinity" : "Spuistraat 133, Amsterdam"
       }
    ],
    "status" : "OK"

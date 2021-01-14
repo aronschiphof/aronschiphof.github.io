@@ -1,0 +1,46 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.370182695140386,
+               "lng" : 4.904823328324902
+            }
+         },
+         "name" : "Ecotap Charging Station",
+         "vicinity" : "Valkenburgerstraat 238, Amsterdam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.36714402976764,
+               "lng" : 4.899300405505315
+            }
+         },
+         "name" : "Ecotap Charging Station",
+         "vicinity" : "Amstelstraat 12, Amsterdam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.37514786916409,
+               "lng" : 4.89596237522974
+            }
+         },
+         "name" : "NewMotion Charging Station",
+         "vicinity" : "Beursplein 5, Amsterdam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.37485145653119, 
+               "lng" : 4.890135995112373
+            }
+         },
+         "name" : "NewMotion Charging Station",
+         "vicinity" : "Spuistraat 133, Amsterdam"
+      }
+   ],
+   "status" : "OK"
+}

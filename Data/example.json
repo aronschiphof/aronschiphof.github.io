@@ -4,8 +4,8 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 52.3847417,
-               "lng" : 4.8733428
+               "lat" : 52.3692402,
+               "lng" : 4.8807645
             }
          },
          "name" : "Nuon oplaadpunt",
@@ -14,8 +14,8 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 52.3743678,
-               "lng" : 4.8842433
+               "lat" : 52.3692402,
+               "lng" : 4.8807645
             }
          },
          "name" : "Vattenfall oplaadpunt",
@@ -24,8 +24,8 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 52.3652543,
-               "lng" : 4.87968
+               "lat" : 52.36929,
+               "lng" : 4.8807645
             }
          },
          "name" : "Nuon oplaadpunt",
@@ -34,8 +34,8 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 52.3652018, 
-               "lng" : 4.8915246
+               "lat" : 52.3693398, 
+               "lng" : 4.8807645
             }
          },
          "name" : "Vattenfall oplaadpunt",
@@ -44,22 +44,22 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 52.3494054, 
+               "lat" : 52.3690968, 
                "lng" : 4.8993337
             }
          },
-         "name" : "EVBox oplaadpunt",
-         "vicinity" : "Pauwenpad 224, Amsterdam"
+         "name" : "EV-Box oplaadpunt",
+         "vicinity" : "Anne Frankstraat 220, Amsterdam"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 52.3654983, 
-               "lng" : 4.8955572
+               "lat" : 52.3641095, 
+               "lng" : 4.8811263
             }
          },
-         "name" : "Nuon oplaadpunt",
-         "vicinity" : "Vondelstraat 65, Amsterdam"
+         "name" : "Vattenfall oplaadpunt",
+         "vicinity" : "Lijnbaansgracht 255, Amsterdam"
       }
    ],
    "status" : "OK"

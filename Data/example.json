@@ -4,42 +4,12 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 52.3692402,
-               "lng" : 4.8807645
-            }
-         },
-         "name" : "Nuon oplaadpunt",
-         "vicinity" : "Joan Melchior Kemperstraat 55E, Amsterdam"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 52.3692402,
-               "lng" : 4.8807645
-            }
-         },
-         "name" : "Vattenfall oplaadpunt",
-         "vicinity" : "Willemsstraat 226, Amsterdam"
-      },
-      {
-         "geometry" : {
-            "location" : {
                "lat" : 52.36929,
                "lng" : 4.8807645
             }
          },
          "name" : "Nuon oplaadpunt",
          "vicinity" : "Leidsekade 12, Amsterdam"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 52.3693398, 
-               "lng" : 4.8807645
-            }
-         },
-         "name" : "Vattenfall oplaadpunt",
-         "vicinity" : "Jacob Van Lennepkade 66, Amsterdam"
       },
       {
          "geometry" : {

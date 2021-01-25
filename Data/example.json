@@ -8,7 +8,7 @@
                "lng" : 4.8807645
             }
          },
-         "name" : "Nuon oplaadpunt 1",
+         "name" : "Nuon oplaadpunt",
          "vicinity" : "Joan Melchior Kemperstraat 55E, Amsterdam"
       },
       {
@@ -18,7 +18,7 @@
                "lng" : 4.8807645
             }
          },
-         "name" : "Vattenfall oplaadpunt 1",
+         "name" : "Vattenfall oplaadpunt",
          "vicinity" : "Willemsstraat 226, Amsterdam"
       },
       {
@@ -28,7 +28,7 @@
                "lng" : 4.8807645
             }
          },
-         "name" : "Nuon oplaadpunt 2",
+         "name" : "Nuon oplaadpunt",
          "vicinity" : "Leidsekade 12, Amsterdam"
       },
       {
@@ -38,7 +38,7 @@
                "lng" : 4.8807645
             }
          },
-         "name" : "Vattenfall oplaadpunt 2",
+         "name" : "Vattenfall oplaadpunt",
          "vicinity" : "Jacob Van Lennepkade 66, Amsterdam"
       },
       {
@@ -58,7 +58,7 @@
                "lng" : 4.8811263
             }
          },
-         "name" : "Vattenfall oplaadpunt 3",
+         "name" : "Vattenfall oplaadpunt",
          "vicinity" : "Lijnbaansgracht 255, Amsterdam"
       }
    ],
